@@ -24,7 +24,7 @@ body{
     position:absolute;
     padding:20px;
     color:rgba(0,0,0,0.3);
-    left:100px;
+    left:100px; 
     font-size: 15px;
 }
 .header .icon i{
